@@ -11,7 +11,7 @@
 </p>
 
 ## 💫 About Me
-<img align="right" height="350" src=" file_000000008e3481fab45b936547977b74.png"/>
+<img align="right" height="350" src="https://github.com/malikdanish172172-spec/malikdanish172172-spec/blob/main/file_000000008e3481fab45b936547977b74.png"/>
 
 I'm a Aspiring AI and Computer Professional with a strong interest in technology and innovation. Completed AI and Computer short courses and 12th grade. Passionate about learning, creating AI-based content, and improving technical skills every day.
 
