@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'M.Danish
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Artificial Intilegence+Developer;Web+Designing;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
-</div>
+
+  font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Artificial Intilegence+Developer;Web+Designing;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
+
 <p align="center">
   <a href="https://github.com/malikdanish172172-spec?tab=followers">
     <img src="https://img.shields.io/github/followers/malikdanish172172-spec?label=Followers&style=social" alt="GitHub Badge">
