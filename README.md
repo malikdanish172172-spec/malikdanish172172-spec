@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'M.Danish
 
 
-  font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Artificial Intilegence+Developer;Web+Designing;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
+  font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Artificial Intilegence+Developer;Web+Designing;Microsoft+Ofice+Spcialist;Passionate+Teacher" .
 
 <p align="center">
   <a href="https://github.com/malikdanish172172-spec?tab=followers">
